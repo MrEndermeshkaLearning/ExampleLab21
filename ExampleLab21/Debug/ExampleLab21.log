@@ -1,0 +1,5 @@
+﻿  task3.cpp
+C:\Users\lodki\source\repos\ExampleLab21\ExampleLab21\task3.cpp(20,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\lodki\source\repos\ExampleLab21\ExampleLab21\task3.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+task3.obj : error LNK2005: _main already defined in ExampleLab21.obj
+C:\Users\lodki\source\repos\ExampleLab21\Debug\ExampleLab21.exe : fatal error LNK1169: one or more multiply defined symbols found
